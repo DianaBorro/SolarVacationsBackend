@@ -1,0 +1,39 @@
+## Build output
+bin/
+obj/
+
+## User secrets
+*.Secrets.json
+secrets.json
+
+## VS / Rider / VSCode
+.vs/
+.idea/
+*.user
+*.suo
+*.swp
+*.sln.docstates
+
+## Logs
+*.log
+
+## Publish output
+publish/
+wwwroot/
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## .NET tools
+*.dbmdl
+*.sqlite
+
+## NuGet
+*.nupkg
+packages/
+
+## EF Core
+Migrations/*Designer.cs
+
+appsettings.Development.json
