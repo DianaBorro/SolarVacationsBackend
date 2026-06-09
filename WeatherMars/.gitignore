@@ -35,3 +35,7 @@ packages/
 
 ## EF Core
 Migrations/*Designer.cs
+
+# dotenv (if you ever use it)
+.env
+.env.*
