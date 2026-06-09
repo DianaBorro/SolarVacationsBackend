@@ -1,4 +1,7 @@
+using System.Net.Http;
 using System.Text.Json;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Http;
 
 namespace WeatherMars.NASAEndpoint;
 

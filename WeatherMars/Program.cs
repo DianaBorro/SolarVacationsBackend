@@ -1,7 +1,10 @@
 //All the data comes from NASA APIs as of the 29th of May 2026
 
 //just checking
-using System.Text.Json.Serialization;
+
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 using WeatherMars.NASAEndpoint;
 
 var builder = WebApplication.CreateBuilder(args);
