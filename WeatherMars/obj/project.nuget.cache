@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WM22ARZVzq8=",
+  "success": true,
+  "projectFilePath": "/Users/salt-dev/RiderProjects/WeatherMars/WeatherMars/WeatherMars.csproj",
+  "expectedPackageFiles": [
+    "/Users/salt-dev/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
