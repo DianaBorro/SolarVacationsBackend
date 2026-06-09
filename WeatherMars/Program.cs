@@ -1,7 +1,5 @@
 //All the data comes from NASA APIs as of the 29th of May 2026
 
-//just checking
-//what about now main branch ruleset
 
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
