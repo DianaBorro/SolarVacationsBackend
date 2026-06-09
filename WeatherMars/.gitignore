@@ -35,5 +35,3 @@ packages/
 
 ## EF Core
 Migrations/*Designer.cs
-
-appsettings.Development.json
